@@ -16,7 +16,7 @@ function generatePassword() {
       return
   }};
   
-  var wantsLower = confirm("Do you want lowerer case letters?");
+  var wantsLower = confirm("Do you want lower case letters?");
     if (wantsLower){ 
       for (let i = 0; i<lower.length; i++){
       charSetLists.push(lower[i])
