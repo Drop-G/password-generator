@@ -9,7 +9,7 @@ function generatePassword() {
   alert("Password must be no less than 8 characters and no more than 128 characters.");
   var passLength = prompt("How long would you like your new password to be?");
   if (passLength < 8 || passLength > 128){
-    alert("Password must me no less than 8 characters and no more 128");
+    alert("Password must be no less than 8 characters and no more than 128");
   var passLength = prompt("Password must be no less than 8 characters and no more than 128 characters. How long would you like your new password to be?");
   if (passLength < 8 || passlength > 128){
     alert("Refresh the page and try again, please")
