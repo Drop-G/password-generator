@@ -9,4 +9,4 @@
 ## I would say moving forward I have a much better understanding how small indexes work and how to move through them. Any applicable math could be fun to create more complicated algorthyms and that I will enjoy. 
 
 ## Github
-[Github]("https://drop-g.github.io/PasswordGenerator/")
+[Github](https://drop-g.github.io/PasswordGenerator/)
