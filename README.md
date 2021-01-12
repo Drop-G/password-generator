@@ -1,14 +1,56 @@
-# PasswordGenerator
+# Password Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## This assignment was completed to highlight the use of "For loops" and "Arrays". It as shows some competency using math.random functions to modify floating integers to produce a random string by moving through constant variables.
+## Description
 
-## This also required some understanding how to mamipulate html code through an external script.js document.
+Generate a unique password using special characters, letters, and numbers(uppercase + lowercase)
 
-## I faced multiple challenges while writing this code. First making the mistake of try to use only "If" statements instead of "for loops". I also struggled to figure out that i need an extra empty string variable to store the password before printing it to the user of the application. 
+## Table of Contents 
 
-## I would say moving forward I have a much better understanding how small indexes work and how to move through them. Any applicable math could be fun to create more complicated algorthyms and that I will enjoy. 
+* [Installation](#installation)
 
-## Github
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
+
+## Usage
+
+
+
+## License
+
+This project is licensed under the MIT license.
+  
+## Contributing
+
+
+
+## Tests
+
+To run tests, run the following command:
+
+```
+npm test
+```
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at droppindbs@gmail.com. You can find more of my work at [Drop-G](https://github.com/Drop-G/).
+
 
 ![Github](https://drop-g.github.io/PasswordGenerator/)
 
