@@ -27,17 +27,9 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
-## Usage
-
-
-
 ## License
 
 This project is licensed under the MIT license.
-  
-## Contributing
-
-
 
 ## Tests
 
@@ -52,6 +44,6 @@ npm test
 If you have any questions about the repo, open an issue or contact me directly at droppindbs@gmail.com. You can find more of my work at [Drop-G](https://github.com/Drop-G/).
 
 
-![Github](https://drop-g.github.io/PasswordGenerator/)
+[Github](https://drop-g.github.io/PasswordGenerator/)
 
-![screenshotOfLivePage](screenshot.png)
+![screenshotOfLivePage](assets/pg.png)
